@@ -82,3 +82,8 @@
   - Automate most tedious processes first like server build
   * DevOps is all about making small changes then testing before moving on, not everything at once
 - BEWARE: If you try to do everything at once you will most likely have to redo it
+
+## Setting up ARM template
+
+- Built in json (see template.json)
+- Can just type arm! for default template
